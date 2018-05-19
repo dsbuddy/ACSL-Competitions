@@ -1,0 +1,108 @@
+﻿Public Class Form1
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        Dim gameBoard(49) As Boolean  ' 0 = free 1 = taken
+        gameBoard(0) = 1
+        Dim input() As String = TextBox1.Text.Split(",")
+        Dim player As Integer = input(1)
+        Dim final As String = ""
+
+        For i As Integer = 0 To input.Length - 1
+            gameBoard(input(i)) = 1
+        Next
+        gameBoard(player) = 0
+
+        final = horizCheck(player, gameBoard)
+        If final.Split(",").Length < vertCheck(player, gameBoard).Split(",").Length Then final = vertCheck(player, gameBoard)
+        If final.Split(",").Length < leftDiagCheck(player, gameBoard).Split(",").length Then final = leftDiagCheck(player, gameBoard)
+        If final.Split(",").Length < rightDiagCheck(player, gameBoard).Split(",").length Then final = rightDiagCheck(player, gameBoard)
+        TextBox2.Text = final.Substring(final.IndexOf(",") + 1)
+
+        If TextBox2.Text = "" Then
+            TextBox2.Text = "NONE"
+        Else
+            TextBox2.Text = TextBox2.Text.Substring(0, TextBox2.Text.Length - 1)
+        End If
+    End Sub
+
+    Private Function horizCheck(playerPos As Integer, gameBoard() As Boolean) As String
+        Dim start As Integer = playerPos
+        Dim startString As String = ""
+        While gameBoard(playerPos) = 0
+            startString = startString & playerPos & ","
+            If playerPos Mod 7 = 0 Then Exit While
+            playerPos += 1
+        End While
+        playerPos = start
+
+        Dim finString As String = ""
+        While gameBoard(playerPos) = 0
+            finString = finString & playerPos & ","
+            If playerPos Mod 7 = 1 Then Exit While
+            playerPos -= 1
+        End While
+        If startString.Split(",").Length >= finString.Split(",").Length Then Return startString
+        Return finString
+    End Function
+
+    Private Function vertCheck(playerPos As Integer, gameBoard() As Boolean) As String
+        Dim start As Integer = playerPos
+        Dim startString As String = ""
+        While gameBoard(playerPos) = 0
+            startString = startString & playerPos & ","
+            If playerPos / 7 > 6 Then Exit While
+            playerPos += 7
+        End While
+        playerPos = start
+
+        Dim finString As String = ""
+        While gameBoard(playerPos) = 0
+            finString = finString & playerPos & ","
+            If playerPos / 7 <= 1 Then Exit While
+            playerPos -= 7
+        End While
+
+        If startString.Split(",").Length >= finString.Split(",").Length Then Return startString
+        Return finString
+    End Function
+
+    Private Function leftDiagCheck(playerPos As Integer, gameBoard() As Boolean)
+        Dim start As Integer = playerPos
+        Dim startString As String = ""
+        While gameBoard(playerPos) = 0
+            startString = startString & playerPos & ","
+            If playerPos / 7 > 6 Or playerPos Mod 7 = 1 Then Exit While
+            playerPos += 6
+        End While
+        playerPos = start
+        Dim finString As String = ""
+        While gameBoard(playerPos) = 0
+            finString = finString & playerPos & ","
+            If playerPos / 7 <= 1 Or playerPos Mod 7 = 0 Then Exit While
+            playerPos -= 6
+        End While
+
+        If startString.Split(",").Length >= finString.Split(",").Length Then Return startString
+        Return finString
+    End Function
+
+    Private Function rightDiagCheck(playerPos As Integer, gameBoard() As Boolean)
+        Dim start As Integer = playerPos
+        Dim startString As String = ""
+        While gameBoard(playerPos) = 0
+            startString = startString & playerPos & ","
+            If playerPos / 7 > 6 Or playerPos Mod 7 = 0 Then Exit While
+            playerPos += 8
+        End While
+        playerPos = start
+
+        Dim finString As String = ""
+        While gameBoard(playerPos) = 0
+            finString = finString & playerPos & ","
+            If playerPos / 7 <= 1 Or playerPos Mod 7 = 1 Then Exit While
+            playerPos -= 8
+        End While
+
+        If startString.Split(",").Length >= finString.Split(",").Length Then Return startString
+        Return finString
+    End Function
+End Class

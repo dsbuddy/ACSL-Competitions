@@ -1,0 +1,22 @@
+H:\2014 Programming I\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\bin\Debug\ACSL1_DanielSchwartz_910.exe.config
+H:\2014 Programming I\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\bin\Debug\ACSL1_DanielSchwartz_910.exe
+H:\2014 Programming I\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\bin\Debug\ACSL1_DanielSchwartz_910.pdb
+H:\2014 Programming I\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\bin\Debug\ACSL1_DanielSchwartz_910.xml
+H:\2014 Programming I\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\obj\Debug\ACSL1_DanielSchwartz_910.Form1.resources
+H:\2014 Programming I\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\obj\Debug\ACSL1_DanielSchwartz_910.Resources.resources
+H:\2014 Programming I\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\obj\Debug\ACSL1_DanielSchwartz_910.vbproj.GenerateResource.Cache
+H:\2014 Programming I\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\obj\Debug\ACSL1_DanielSchwartz_910.exe
+H:\2014 Programming I\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\obj\Debug\ACSL1_DanielSchwartz_910.xml
+H:\2014 Programming I\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\obj\Debug\ACSL1_DanielSchwartz_910.pdb
+C:\Users\theda\Downloads\CP1\ACSL 1\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\bin\Debug\ACSL1_DanielSchwartz_910.exe.config
+C:\Users\theda\Downloads\CP1\ACSL 1\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\bin\Debug\ACSL1_DanielSchwartz_910.exe
+C:\Users\theda\Downloads\CP1\ACSL 1\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\bin\Debug\ACSL1_DanielSchwartz_910.pdb
+C:\Users\theda\Downloads\CP1\ACSL 1\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\bin\Debug\ACSL1_DanielSchwartz_910.xml
+C:\Users\theda\Downloads\CP1\ACSL 1\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\obj\Debug\ACSL1_DanielSchwartz_910.vbprojResolveAssemblyReference.cache
+C:\Users\theda\Downloads\CP1\ACSL 1\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\obj\Debug\ACSL1_DanielSchwartz_910.Form1.resources
+C:\Users\theda\Downloads\CP1\ACSL 1\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\obj\Debug\ACSL1_DanielSchwartz_910.Resources.resources
+C:\Users\theda\Downloads\CP1\ACSL 1\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\obj\Debug\ACSL1_DanielSchwartz_910.vbproj.GenerateResource.cache
+C:\Users\theda\Downloads\CP1\ACSL 1\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\obj\Debug\ACSL1_DanielSchwartz_910.vbproj.CoreCompileInputs.cache
+C:\Users\theda\Downloads\CP1\ACSL 1\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\obj\Debug\ACSL1_DanielSchwartz_910.exe
+C:\Users\theda\Downloads\CP1\ACSL 1\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\obj\Debug\ACSL1_DanielSchwartz_910.xml
+C:\Users\theda\Downloads\CP1\ACSL 1\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\ACSL1_DanielSchwartz_910\obj\Debug\ACSL1_DanielSchwartz_910.pdb

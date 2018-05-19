@@ -1,0 +1,10 @@
+C:\Users\Shari\Desktop\dSchwartzACSL40910\dSchwartzACSL40910\bin\Debug\dSchwartzACSL40910.exe.config
+C:\Users\Shari\Desktop\dSchwartzACSL40910\dSchwartzACSL40910\bin\Debug\dSchwartzACSL40910.exe
+C:\Users\Shari\Desktop\dSchwartzACSL40910\dSchwartzACSL40910\bin\Debug\dSchwartzACSL40910.pdb
+C:\Users\Shari\Desktop\dSchwartzACSL40910\dSchwartzACSL40910\bin\Debug\dSchwartzACSL40910.xml
+C:\Users\Shari\Desktop\dSchwartzACSL40910\dSchwartzACSL40910\obj\Debug\dSchwartzACSL40910.Form1.resources
+C:\Users\Shari\Desktop\dSchwartzACSL40910\dSchwartzACSL40910\obj\Debug\dSchwartzACSL40910.Resources.resources
+C:\Users\Shari\Desktop\dSchwartzACSL40910\dSchwartzACSL40910\obj\Debug\dSchwartzACSL40910.vbproj.GenerateResource.Cache
+C:\Users\Shari\Desktop\dSchwartzACSL40910\dSchwartzACSL40910\obj\Debug\dSchwartzACSL40910.exe
+C:\Users\Shari\Desktop\dSchwartzACSL40910\dSchwartzACSL40910\obj\Debug\dSchwartzACSL40910.xml
+C:\Users\Shari\Desktop\dSchwartzACSL40910\dSchwartzACSL40910\obj\Debug\dSchwartzACSL40910.pdb

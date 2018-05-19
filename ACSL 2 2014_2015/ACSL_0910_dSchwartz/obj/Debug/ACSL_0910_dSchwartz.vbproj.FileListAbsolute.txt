@@ -1,0 +1,24 @@
+H:\2014 Programming I\ACSL_0910_dSchwartz\ACSL_0910_dSchwartz\bin\Debug\ACSL_0910_dSchwartz.exe.config
+H:\2014 Programming I\ACSL_0910_dSchwartz\ACSL_0910_dSchwartz\bin\Debug\ACSL_0910_dSchwartz.exe
+H:\2014 Programming I\ACSL_0910_dSchwartz\ACSL_0910_dSchwartz\bin\Debug\ACSL_0910_dSchwartz.pdb
+H:\2014 Programming I\ACSL_0910_dSchwartz\ACSL_0910_dSchwartz\bin\Debug\ACSL_0910_dSchwartz.xml
+H:\2014 Programming I\ACSL_0910_dSchwartz\ACSL_0910_dSchwartz\obj\Debug\ACSL_0910_dSchwartz.Form1.resources
+H:\2014 Programming I\ACSL_0910_dSchwartz\ACSL_0910_dSchwartz\obj\Debug\ACSL_0910_dSchwartz.Resources.resources
+H:\2014 Programming I\ACSL_0910_dSchwartz\ACSL_0910_dSchwartz\obj\Debug\ACSL_0910_dSchwartz.vbproj.GenerateResource.Cache
+H:\2014 Programming I\ACSL_0910_dSchwartz\ACSL_0910_dSchwartz\obj\Debug\ACSL_0910_dSchwartz.exe
+H:\2014 Programming I\ACSL_0910_dSchwartz\ACSL_0910_dSchwartz\obj\Debug\ACSL_0910_dSchwartz.xml
+H:\2014 Programming I\ACSL_0910_dSchwartz\ACSL_0910_dSchwartz\obj\Debug\ACSL_0910_dSchwartz.pdb
+C:\Users\Shari\Desktop\ACSL_0910_dSchwartz\ACSL_0910_dSchwartz\bin\Debug\ACSL_0910_dSchwartz.exe.config
+C:\Users\Shari\Desktop\ACSL_0910_dSchwartz\ACSL_0910_dSchwartz\obj\Debug\ACSL_0910_dSchwartz.exe
+C:\Users\Shari\Desktop\ACSL_0910_dSchwartz\ACSL_0910_dSchwartz\obj\Debug\ACSL_0910_dSchwartz.xml
+C:\Users\Shari\Desktop\ACSL_0910_dSchwartz\ACSL_0910_dSchwartz\obj\Debug\ACSL_0910_dSchwartz.pdb
+C:\Users\Shari\Desktop\ACSL_0910_dSchwartz\ACSL_0910_dSchwartz\bin\Debug\ACSL_0910_dSchwartz.exe
+C:\Users\Shari\Desktop\ACSL_0910_dSchwartz\ACSL_0910_dSchwartz\bin\Debug\ACSL_0910_dSchwartz.pdb
+C:\Users\Shari\Desktop\ACSL_0910_dSchwartz\ACSL_0910_dSchwartz\bin\Debug\ACSL_0910_dSchwartz.xml
+C:\Users\Shari\Desktop\ACSL_0910_dSchwartz\ACSL_0910_dSchwartz\obj\Debug\ACSL_0910_dSchwartz.Form1.resources
+C:\Users\Shari\Desktop\ACSL_0910_dSchwartz\ACSL_0910_dSchwartz\obj\Debug\ACSL_0910_dSchwartz.Resources.resources
+C:\Users\Shari\Desktop\ACSL_0910_dSchwartz\ACSL_0910_dSchwartz\obj\Debug\ACSL_0910_dSchwartz.vbproj.GenerateResource.Cache
+C:\Users\Shari\Desktop\ACSL_two_0910_dSchwartz\ACSL_0910_dSchwartz\ACSL_0910_dSchwartz\bin\Debug\ACSL_0910_dSchwartz.exe.config
+C:\Users\Shari\Desktop\ACSL_two_0910_dSchwartz\ACSL_0910_dSchwartz\ACSL_0910_dSchwartz\obj\Debug\ACSL_0910_dSchwartz.exe
+C:\Users\Shari\Desktop\ACSL_two_0910_dSchwartz\ACSL_0910_dSchwartz\ACSL_0910_dSchwartz\obj\Debug\ACSL_0910_dSchwartz.xml
+C:\Users\Shari\Desktop\ACSL_two_0910_dSchwartz\ACSL_0910_dSchwartz\ACSL_0910_dSchwartz\obj\Debug\ACSL_0910_dSchwartz.pdb
